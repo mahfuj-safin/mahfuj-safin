@@ -53,8 +53,8 @@ I'm Mahfuj Safin, a passionate learner exploring the world of web development an
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahfuj-safin&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuj-safin&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=mahfuj-safin&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mahfuj-safin&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 🔥 Contribution Streak
