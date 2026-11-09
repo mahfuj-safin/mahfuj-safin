@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Mahfuj Safin Developer Banner" />
+</p>
 # 👋 Hello, I'm Mahfuj Safin
 
 ### `Aspiring Full-Stack Developer` | `Future Software Engineer`
